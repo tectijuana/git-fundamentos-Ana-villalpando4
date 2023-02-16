@@ -1,6 +1,6 @@
-###Comentarios codigo fuente
+#Comentarios codigo fuente
 
-```java
+```javascript
 
 //Hola mundo
 public class HolaMundo {
@@ -8,4 +8,4 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
 	}
 }
-```java
+```javascript
