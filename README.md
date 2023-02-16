@@ -1,10 +1,10 @@
 
 
 # Imagen Root
-![] (RAIZ.png)
+![](RAIZ.png)
 
 # Imagen subdirectorio
-![] (Imagenes/CARPETA.png)
+![](imagenes/CARPETA.png)
 
 
 # :wave: The Basics of GitHub 
