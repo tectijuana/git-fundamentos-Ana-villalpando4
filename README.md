@@ -1,3 +1,12 @@
+
+
+# Imagen Root
+![] (RAIZ.png)
+
+# Imagen subdirectorio
+![] (Imagenes/CARPETA.png)
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
