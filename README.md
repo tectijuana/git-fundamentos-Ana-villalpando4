@@ -4,7 +4,7 @@
 ![](RAIZ.png)
 
 # Imagen subdirectorio
-![](imagenes/CARPETA.png)
+
 
 # Imagen de la web
 ![image](https://user-images.githubusercontent.com/124212032/219504597-58b3c4ff-c641-45b7-bb8d-8e79f1743e6b.png)
